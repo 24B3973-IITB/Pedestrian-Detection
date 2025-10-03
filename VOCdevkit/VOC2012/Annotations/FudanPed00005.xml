@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>VOC2012</folder><filename>FudanPed00005.jpg</filename><size><width>335</width><height>344</height><depth>3</depth></size><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>188</xmin><ymin>59</ymin><xmax>320</xmax><ymax>336</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>2</xmin><ymin>53</ymin><xmax>40</xmax><ymax>158</ymax></bndbox></object></annotation>

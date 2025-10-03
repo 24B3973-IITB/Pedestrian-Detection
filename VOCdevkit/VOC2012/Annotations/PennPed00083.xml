@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>VOC2012</folder><filename>PennPed00083.jpg</filename><size><width>371</width><height>341</height><depth>3</depth></size><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>108</xmin><ymin>32</ymin><xmax>249</xmax><ymax>327</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>38</xmin><ymin>22</ymin><xmax>124</xmax><ymax>299</ymax></bndbox></object></annotation>
